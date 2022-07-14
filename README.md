@@ -2,7 +2,7 @@
   <a href="#deskripsi">Deskripsi</a> |
   <a href="#latar-belakang">Latar Belakang</a> |
   <a href="#uml">Desain Sistem</a> |
-  <a href="about.html">About me</a> |
+  <a href="#ssaplikasi">Screen Shoot Aplikasi</a> |
 </nav>
 
 <div id="deskripsi">
@@ -66,3 +66,38 @@
     </li>
   </ul>
 <div>
+
+<div id="ssaplikasi">
+  <hr>
+  <h3>Screen Shoot Aplikasi Gighit saat Dijalankan</h3>
+  <ul>
+    <li>
+      Halaman Login <br>
+      <img width="85%" alt="image" src="https://user-images.githubusercontent.com/96558726/179043243-be978280-1c1e-4e23-9567-7134de2f456f.png"> <br>
+      Untuk masuk sebagai admin dibutuhkan kredensial admins ebagai berikut : <br>
+      username : admin_gighit <br>
+      password : gighit <br>
+      Untuk user / pelanggan, dapat langsung login dengan akunnya namun jika belu punya akun, user dapat melakukan sign up terlebih dahulu
+    </li>
+    <li>
+      Halaman Sign Up <br>
+      <img width="85%" alt="image" src="https://user-images.githubusercontent.com/96558726/179044373-9127772d-d8cd-41c0-a087-901459285c1b.png">
+    </li>
+    <li>
+      Halaman Home <br>
+      <img width="85%" alt="image" src="https://user-images.githubusercontent.com/96558726/179044757-eba1307d-d71c-4d83-bb0e-d57ee2e4f3d7.png">
+    </li>
+    <li>
+      Halaman Menu Pizza untuk pelanggan <br>
+      <img width="85%" alt="image" src=""> <br>
+      Halaman Menu Pizza untuk admin (terdapat button edit, delete dan plus untuk menambahkan menu pizza baru) <br>
+      <img width="85%" alt="image" src="">
+    </li>
+    <li>
+      Halaman Menu Drinks untuk pelanggan <br>
+      <img width="85%" alt="image" src="">
+      Halaman Menu Drinks untuk admin <br>
+      <img width="85%" alt="image" src="">
+    </li>
+  </ul>
+</div>
