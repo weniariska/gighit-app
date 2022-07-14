@@ -1,7 +1,7 @@
 # gighit-app
 
 Gighit adalah sebuah aplikasi 2in1 kasir + pelanggan dengan inovasi hemat kertas.
-Aplikasi ini dibuat dengan menggunakan Object Oriented Programming (OOP) menggunakan bahasa pemrograman Java
+Aplikasi ini dibuat dengan menerapkan konsep Object Oriented Programming (OOP) menggunakan bahasa pemrograman Java.
 
 Restoran pizza di Indonesia mayoritas menggunakan 2 aplikasi pendukung yaitu 
 aplikasi kasir dan aplikasi pelanggan. Pada aplikasi kasir yang digunakan pastinya 
