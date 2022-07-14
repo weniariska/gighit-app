@@ -49,7 +49,8 @@
 
 <div id="uml">
   <hr>
-  Berikut adalah desain sistem (UML : Unified Modelling Language) aplikasi Gighit :
+  <h3>Desain Sistem</h3>
+  Berikut adalah desain sistem aplikasi Gighit yang dibuat dengan menggunakna UML atau Unified Modelling Language :
   <ul>
     <li>
       Use Case diagram <br>
