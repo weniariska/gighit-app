@@ -1,4 +1,5 @@
 # gighit-app
+<h1>GiGhit</h1>
 
 Gighit adalah sebuah aplikasi 2in1 kasir + pelanggan dengan inovasi hemat kertas
 
