@@ -1,3 +1,5 @@
+<img width="100%" alt="image" src="https://user-images.githubusercontent.com/96558726/179160033-f1afa2ca-dbfe-4e2c-93a3-94a5b4bea515.png">
+
 <nav>
   <a href="#deskripsi">Deskripsi</a> |
   <a href="#latar-belakang">Latar Belakang</a> |
@@ -54,15 +56,15 @@
   <ul>
     <li>
       Use Case diagram <br>
-      <img width="281" alt="image" src="https://user-images.githubusercontent.com/96558726/178757639-a74340c3-d08b-4f4b-bb2b-39f8c87cd942.png">
+      <img width="50%" alt="image" src="https://user-images.githubusercontent.com/96558726/178757639-a74340c3-d08b-4f4b-bb2b-39f8c87cd942.png">
     </li>
     <li>
       Class Diagram <br>
-      <img width="281" alt="image" src="https://user-images.githubusercontent.com/96558726/178758313-a28695d4-8efc-4590-981f-77a20f35f3fa.png">
+      <img width="50%" alt="image" src="https://user-images.githubusercontent.com/96558726/178758313-a28695d4-8efc-4590-981f-77a20f35f3fa.png">
     </li>
     <li>
       Activity Diagram <br>
-      <img width="281" alt="image" src="https://user-images.githubusercontent.com/96558726/178758412-300566c1-c4a7-4609-817c-0641b209454f.png">
+      <img width="50%" alt="image" src="https://user-images.githubusercontent.com/96558726/178758412-300566c1-c4a7-4609-817c-0641b209454f.png">
     </li>
   </ul>
 <div>
@@ -77,27 +79,53 @@
       Untuk masuk sebagai admin dibutuhkan kredensial admins ebagai berikut : <br>
       username : admin_gighit <br>
       password : gighit <br>
-      Untuk user / pelanggan, dapat langsung login dengan akunnya namun jika belu punya akun, user dapat melakukan sign up terlebih dahulu
+      Untuk user / pelanggan, dapat langsung login dengan akun yang telah terdaftar namun jika belum punya akun, user dapat melakukan sign up terlebih dahulu <br><br>
     </li>
     <li>
       Halaman Sign Up <br>
-      <img width="85%" alt="image" src="https://user-images.githubusercontent.com/96558726/179044373-9127772d-d8cd-41c0-a087-901459285c1b.png">
+      <img width="85%" alt="image" src="https://user-images.githubusercontent.com/96558726/179044373-9127772d-d8cd-41c0-a087-901459285c1b.png"><br><br>
     </li>
     <li>
       Halaman Home <br>
-      <img width="85%" alt="image" src="https://user-images.githubusercontent.com/96558726/179044757-eba1307d-d71c-4d83-bb0e-d57ee2e4f3d7.png">
+      <img width="85%" alt="image" src="https://user-images.githubusercontent.com/96558726/179044757-eba1307d-d71c-4d83-bb0e-d57ee2e4f3d7.png"><br><br>
     </li>
     <li>
       Halaman Menu Pizza untuk pelanggan <br>
-      <img width="85%" alt="image" src=""> <br>
+      <img width="85%" alt="image" src="https://user-images.githubusercontent.com/96558726/179161591-99928856-e475-4f63-bd49-4c5be4e12ca9.png"> <br>
       Halaman Menu Pizza untuk admin (terdapat button edit, delete dan plus untuk menambahkan menu pizza baru) <br>
-      <img width="85%" alt="image" src="">
+      <img width="85%" alt="image" src="https://user-images.githubusercontent.com/96558726/179161550-34e50c08-559e-41fb-b110-40b6de976b4a.png"><br><br>
     </li>
     <li>
       Halaman Menu Drinks untuk pelanggan <br>
-      <img width="85%" alt="image" src="">
-      Halaman Menu Drinks untuk admin <br>
-      <img width="85%" alt="image" src="">
+      <img width="85%" alt="image" src="https://user-images.githubusercontent.com/96558726/179160714-47db4935-22fb-48ec-8aa9-ea83a06b1939.png"><br>
+      Halaman Menu Drinks untuk admin (terdapat button edit, delete dan plus untuk menambahkan menu drink baru) <br>
+      <img width="85%" alt="image" src="https://user-images.githubusercontent.com/96558726/179160638-196d4c7e-7add-4406-bea7-89dc6711adaa.png"><br><br>
+    </li>
+    <li>
+      Halaman Menu Starters untuk pelanggan <br>
+      <img width="85%" alt="image" src="https://user-images.githubusercontent.com/96558726/179161286-42f006a0-dc0d-4914-bb74-5d63af18cd98.png"><br>
+      Halaman Menu Starters untuk admin (terdapat button edit, delete dan plus untuk menambahkan menu starter baru) <br>
+      <img width="85%" alt="image" src="https://user-images.githubusercontent.com/96558726/179161373-3762a328-1723-4964-a6c5-9700f5c0a852.png"><br><br>
+    </li>
+    <li>
+      Halaman Riwayat Order untuk pelanggan (menampilkan hanya riwayat order akun tersebut) <br>
+      <img width="85%" alt="image" src="https://user-images.githubusercontent.com/96558726/179162282-aba75ae0-5a7d-4b45-b7c8-4cad39625d6e.png"><br>
+      Halaman Menu Riwayat Order untuk admin (menampilkan riwayat order semua pelanggan) <br>
+      <img width="85%" alt="image" src="https://user-images.githubusercontent.com/96558726/179162191-7737ed66-96af-4825-a896-91f8773b60ac.png"><br><br>
+    </li>
+    <li>
+      Halaman Panel Order untuk pelanggan <br>
+      <img width="85%" alt="image" src="https://user-images.githubusercontent.com/96558726/179162615-bbf902a8-6f6f-46f9-a373-55258dfe6861.png"><br>
+      Halaman Menu Riwayat Order untuk admin <br>
+      <img width="85%" alt="image" src="https://user-images.githubusercontent.com/96558726/179162688-3341b3d7-9970-4ebf-8239-54883234add6.png"><br>
+      Menginput email pelanggan untuk mengirim struk pembelian
+      <img width="85%" alt="image" src="https://user-images.githubusercontent.com/96558726/179162858-00d87773-30d3-457a-913b-52a9e19908f3.png"><br><br>
+    </li>
+    <li>
+      Struk yang dihasilkan mode pelanggan memiliki kode <br>
+      <img width="50%" alt="image" src="https://user-images.githubusercontent.com/96558726/179163208-ba37477e-d939-465d-aeac-883354761d0e.png"><br>
+      Struk yang dihasilkan mode admin <br>
+      <img width="50%" alt="image" src="https://user-images.githubusercontent.com/96558726/179163445-e3a4de7c-256e-4a6a-9281-a6c54ef5edcf.png"><br>
     </li>
   </ul>
 </div>
