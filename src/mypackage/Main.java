@@ -2,7 +2,7 @@ package mypackage;
 
 import javax.swing.*;
 
-public class GigHit {
+public class Main {
     public static void main(String[] args){
 
         // Frame
