@@ -129,3 +129,14 @@
     </li>
   </ul>
 </div>
+
+<div id="how-to">
+  <hr>
+  <h3>Tutorial Menjalankan Aplikasi Gighit</h3>
+  <ol>
+    <li>Buat database dengan nama gighit_app kemudian import database gighit_app.sql</li>
+    <li>Pasang mysql-connector-java-8.0.22.jar</li>
+    <li>Run file Main.java</li>
+    <li>Selesai!</li>
+  <ol>
+</div>
